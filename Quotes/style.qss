@@ -1,0 +1,33 @@
+QMainWindow, QWidget#centralWidget {
+    background-color: #2b2d42;
+}
+
+QLabel {
+    color: #edf2f4;
+    font-size: 26px;
+    font-family: "Georgia", serif;
+    font-style: italic;
+    padding: 20px;
+    margin: 10px;
+}
+
+QPushButton {
+    background-color: #ef233c;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 24px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+
+QPushButton:hover {
+    background-color: #d90429;
+}
+
+QPushButton:pressed {
+    background-color: #8d081b;
+}

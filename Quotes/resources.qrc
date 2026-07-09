@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>quotes.txt</file>
+        <file>style.qss</file>
+    </qresource>
+</RCC>
